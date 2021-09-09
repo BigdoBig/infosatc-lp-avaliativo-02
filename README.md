@@ -1,5 +1,5 @@
 # infosatc-lp-avaliativo-02
-    <code><img src = "satc.png"></code>
+    <code><img height = "20" src = "satc.png"></code>
 
     - Informática
 
