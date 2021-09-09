@@ -1,5 +1,6 @@
 # infosatc-lp-avaliativo-02
     <img src ="satc.png">
+    ![Screenshot](satc.png)
 
     - Informática
 
