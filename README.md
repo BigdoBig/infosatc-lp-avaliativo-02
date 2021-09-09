@@ -1,5 +1,5 @@
 # infosatc-lp-avaliativo-02
-    <img src = "https://www1.satc.edu.br/portais/alunos/index.php/online/initial">
+   ![Alt text](/relative/path/to/satc.jpg?raw=true "Optional Title")
 
     - Informática
 
