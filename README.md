@@ -1,5 +1,5 @@
 # infosatc-lp-avaliativo-02
-    <code><img height = "20" src = "satc.png"></code>
+    <img src="https://www1.satc.edu.br/parcelamento_satc/assets/img/logotipo_horizontal.png">
 
     - Informática
 
