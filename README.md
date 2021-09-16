@@ -1,12 +1,13 @@
 # infosatc-lp-avaliativo-02
+
 ![alt text](https://www1.satc.edu.br/portais/alunos/assets/img/logoSatc.png)
 
-    - Informática
+    <p>-Informática.</p>
 
-    - Linguagem de Programação
+    <p>- Linguagem de Programação</p>
 
-    - 09/09/2021 2° Fase Curso de Informática , turma : 2190
+    <p>- 09/09/2021 2° Fase Curso de Informática , turma : 2190</p>
     
-    - 2° Atividade Avaliativa da disciplina : Linguagem de programção
+    <p>- 2° Atividade Avaliativa da disciplina : Linguagem de programção</p>
 
-    - Liguagem : Python
+    <p>- Liguagem : Python</p>
